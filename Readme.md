@@ -16,7 +16,7 @@
 	- KNN, SVM, Randomforest, Xgboost, Neural Network 총 6가지의 분류 모델을 사용했습니다.
 
 ## 3. 결과
-tfidfVectorizer를 이용하여 데이터를 수치로 변환한 뒤, Xgboost 모델을 쓴 경우 0.778로 가장 높은 score를 기록했습니다.
+- tfidfVectorizer를 이용하여 데이터를 수치로 변환한 뒤, Xgboost 모델을 쓴 경우 0.778로 가장 높은 score를 기록했습니다.
 
 ## 4. URL
 https://render.githubusercontent.com/view/ipynb?commit=484f5634ddfd4691519b3bfa632014a877b18ee9&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f596f6f6f6e6b79756e672f57686174732d436f6f6b696e672f343834663536333464646664343639313531396233626661363332303134613837376231386565392f57686174735f436f6f6b696e675f4b6167676c652d6368616c6c656e67652e6970796e62&nwo=Yooonkyung%2FWhats-Cooking&path=Whats_Cooking_Kaggle-challenge.ipynb&repository_id=100808172&repository_type=Repository#Kaggle-competition---What's-cooking
